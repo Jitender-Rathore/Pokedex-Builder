@@ -40,8 +40,11 @@ STACK
 
 Built with ->
 create-react-app
+
 react-router
+
 Pokéapi - The RESTful Pokémon API for images
+
 React-hook-form
 
 GETTING STARTED
