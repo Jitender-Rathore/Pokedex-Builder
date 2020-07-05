@@ -31,7 +31,7 @@ React-hook-form
 
 GETTING STARTED
 
-1)git clone git@github.com:magarcia/react-pokedex.git
+1)git clone 
 2)cd react-pokedex
 3)npm install
 4)npm start # open localhost:3000
