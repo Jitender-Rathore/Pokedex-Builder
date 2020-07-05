@@ -1,6 +1,7 @@
 
 
 POKEDOX BUILDER
+
 Pokedx Builder is a project which gives users access to a collection information for already discovered pokémon and also gives them the ability to add fields of their own for newly discovered pokémon.
 
 It includes the following features : 
@@ -50,6 +51,7 @@ Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ROADMAP
+
 1)Lazyloading Feature
 2)Form validations and providing user friendle UI
 3)Autofill Searchbar
@@ -58,4 +60,5 @@ ROADMAP
 6)MERN Integration
 
 CREDITS
+
 Thanks to Refrens team for giving this fun assignment , google  and of course to Nintendo, Game Freak, and The Pokémon Company for making such an awesome series of games.
