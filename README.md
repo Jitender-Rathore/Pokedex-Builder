@@ -54,7 +54,6 @@ GETTING STARTED
 
 4)npm start # open localhost:3000
 
-5) DONE
 
 AVAILABLE SCRIPTS 
 
