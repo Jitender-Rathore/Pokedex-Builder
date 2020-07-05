@@ -17,7 +17,11 @@ h) Lot more features to be added  . Keep looking for the space .
 
 SCREENSHOTS
 
-
+![pokedex-home](https://user-images.githubusercontent.com/27485960/86544735-1b4f8180-bf47-11ea-9d14-9e59191860d5.png)
+![pokedex-list](https://user-images.githubusercontent.com/27485960/86544736-1d194500-bf47-11ea-822b-65da7ec9d5d8.png)
+![add-pokemon](https://user-images.githubusercontent.com/27485960/86544738-24d8e980-bf47-11ea-8b9a-d9d32da4683c.png)
+![pokemon-card](https://user-images.githubusercontent.com/27485960/86544740-26a2ad00-bf47-11ea-945c-1bab9bdb5d96.png)
+![update-pokemon](https://user-images.githubusercontent.com/27485960/86544742-286c7080-bf47-11ea-92a6-7de61c41e27f.png)
 
 
 
