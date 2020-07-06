@@ -23,7 +23,7 @@ const App = () => {
   return (
     <BrowserRouter>
       <Header />
-      <Switch>
+      
         <Route
           exact
           path="/"
@@ -61,7 +61,7 @@ const App = () => {
           )}
         />
         <Route component={NoMatch} />
-      </Switch>
+      
     </BrowserRouter>
   );
 };

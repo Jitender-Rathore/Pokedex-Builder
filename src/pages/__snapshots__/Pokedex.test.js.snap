@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pokedex /> renders correctly 1`] = `
+Array [
+  <div
+    className="header lang"
+  >
+    <select
+      onChange={[Function]}
+      value="english"
+    >
+      <option
+        value="english"
+      >
+        English
+      </option>
+      <option
+        value="japanese"
+      >
+        Japanese
+      </option>
+      <option
+        value="chinese"
+      >
+        Chinese
+      </option>
+    </select>
+    <a
+      href="/add"
+      onClick={[Function]}
+    >
+      <div
+        className="addPokemonWrapper"
+      >
+        <div
+          className="addPokeImage"
+        >
+          <img
+            alt="pokeBall"
+            className="pokeballImage"
+            src="pokemon_ball.png"
+          />
+          <h3>
+             Add Pokemon 
+          </h3>
+        </div>
+      </div>
+    </a>
+  </div>,
+  <div
+    className="searchBoxWrapper"
+  >
+    <div
+      className="searchBox "
+    >
+      <input
+        onChange={[Function]}
+        placeholder="Search"
+        type="text"
+        value=""
+      />
+    </div>
+  </div>,
+  <div
+    className="App"
+  />,
+]
+`;
